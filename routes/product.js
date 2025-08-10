@@ -8,9 +8,9 @@ const cloudinary = require("cloudinary").v2;
 
 // إعداد Cloudinary
 cloudinary.config({
-  cloud_name: process.env.CLOUD_NAME,
-  api_key: process.env.CLOUD_API_KEY,
-  api_secret: process.env.CLOUD_API_SECRET,
+  cloud_name: "dep0pfyuw",
+  api_key: "977158624843983",
+  api_secret: "mY8JNm_M_uRx4vFE0L0PcXyDNUc",
 });
 
 // إعداد التخزين في Cloudinary
